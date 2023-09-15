@@ -5,4 +5,22 @@ git config --global user.email "emailDeGitHub"
 git config --global -e
 
 git status 
+git add .
+git status
+git commit -m "primer copia"
+
+git branch -M main
+git remote add origin https://Github....
+git push -u origin main
+
+Luego de varios dias de trabajo hago otra copia
+git add . 
+git commit -m "segunda copia"
+git push 
+
+
+
+
+
+
 
